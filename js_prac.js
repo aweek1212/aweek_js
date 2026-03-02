@@ -3,7 +3,7 @@
 
 const gender = 'F';
 const name = 'Jane';
-const isAdult - true;
+const isAdult = true;
 
 if(gender === 'M' && name === 'Mike' || isadult){
     console.log('통과')
